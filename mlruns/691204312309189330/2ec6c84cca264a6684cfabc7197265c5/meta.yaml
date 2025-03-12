@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/691204312309189330/2ec6c84cca264a6684cfabc7197265c5/artifacts
+end_time: 1741759192341
+entry_point_name: ''
+experiment_id: '691204312309189330'
+lifecycle_stage: active
+run_id: 2ec6c84cca264a6684cfabc7197265c5
+run_name: calm-sow-638
+run_uuid: 2ec6c84cca264a6684cfabc7197265c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741759192010
+status: 3
+tags: []
+user_id: libnfc43

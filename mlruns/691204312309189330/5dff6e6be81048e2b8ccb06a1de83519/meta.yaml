@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/691204312309189330/5dff6e6be81048e2b8ccb06a1de83519/artifacts
+end_time: 1741760745498
+entry_point_name: ''
+experiment_id: '691204312309189330'
+lifecycle_stage: active
+run_id: 5dff6e6be81048e2b8ccb06a1de83519
+run_name: tasteful-auk-939
+run_uuid: 5dff6e6be81048e2b8ccb06a1de83519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741760740800
+status: 3
+tags: []
+user_id: libnfc43

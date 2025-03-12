@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/691204312309189330/f105662eee1b4a80a57c86804698a94f/artifacts
+end_time: 1741760975816
+entry_point_name: ''
+experiment_id: '691204312309189330'
+lifecycle_stage: active
+run_id: f105662eee1b4a80a57c86804698a94f
+run_name: intelligent-bass-143
+run_uuid: f105662eee1b4a80a57c86804698a94f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741760971015
+status: 3
+tags: []
+user_id: libnfc43
