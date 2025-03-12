@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/libnfc43/Desktop/complete_ml_flow_prctice/mlruns/321867903361712512/b68af520754a4decaa36cc8f3b5a0fe0/artifacts
+end_time: 1741775311152
+entry_point_name: ''
+experiment_id: '321867903361712512'
+lifecycle_stage: active
+run_id: b68af520754a4decaa36cc8f3b5a0fe0
+run_name: redolent-calf-764
+run_uuid: b68af520754a4decaa36cc8f3b5a0fe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741775311139
+status: 3
+tags: []
+user_id: libnfc43

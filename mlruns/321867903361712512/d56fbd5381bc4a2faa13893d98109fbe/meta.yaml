@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/libnfc43/Desktop/complete_ml_flow_prctice/mlruns/321867903361712512/d56fbd5381bc4a2faa13893d98109fbe/artifacts
+end_time: 1741775311221
+entry_point_name: ''
+experiment_id: '321867903361712512'
+lifecycle_stage: active
+run_id: d56fbd5381bc4a2faa13893d98109fbe
+run_name: overjoyed-slug-679
+run_uuid: d56fbd5381bc4a2faa13893d98109fbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741775311206
+status: 3
+tags: []
+user_id: libnfc43

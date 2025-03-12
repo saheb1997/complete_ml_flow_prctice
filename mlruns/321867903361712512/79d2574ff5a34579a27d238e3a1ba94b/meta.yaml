@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/libnfc43/Desktop/complete_ml_flow_prctice/mlruns/321867903361712512/79d2574ff5a34579a27d238e3a1ba94b/artifacts
+end_time: 1741775311136
+entry_point_name: ''
+experiment_id: '321867903361712512'
+lifecycle_stage: active
+run_id: 79d2574ff5a34579a27d238e3a1ba94b
+run_name: whimsical-turtle-848
+run_uuid: 79d2574ff5a34579a27d238e3a1ba94b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741775311124
+status: 3
+tags: []
+user_id: libnfc43

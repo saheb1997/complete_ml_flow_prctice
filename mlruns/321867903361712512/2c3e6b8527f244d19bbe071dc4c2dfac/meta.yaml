@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/libnfc43/Desktop/complete_ml_flow_prctice/mlruns/321867903361712512/2c3e6b8527f244d19bbe071dc4c2dfac/artifacts
+end_time: 1741775311104
+entry_point_name: ''
+experiment_id: '321867903361712512'
+lifecycle_stage: active
+run_id: 2c3e6b8527f244d19bbe071dc4c2dfac
+run_name: intelligent-foal-396
+run_uuid: 2c3e6b8527f244d19bbe071dc4c2dfac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741775311093
+status: 3
+tags: []
+user_id: libnfc43

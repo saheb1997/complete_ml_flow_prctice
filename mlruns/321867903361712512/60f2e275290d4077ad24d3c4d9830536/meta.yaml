@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/libnfc43/Desktop/complete_ml_flow_prctice/mlruns/321867903361712512/60f2e275290d4077ad24d3c4d9830536/artifacts
+end_time: 1741775311187
+entry_point_name: ''
+experiment_id: '321867903361712512'
+lifecycle_stage: active
+run_id: 60f2e275290d4077ad24d3c4d9830536
+run_name: lyrical-snail-914
+run_uuid: 60f2e275290d4077ad24d3c4d9830536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741775311174
+status: 3
+tags: []
+user_id: libnfc43

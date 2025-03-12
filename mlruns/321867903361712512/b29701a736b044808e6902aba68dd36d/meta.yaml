@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/libnfc43/Desktop/complete_ml_flow_prctice/mlruns/321867903361712512/b29701a736b044808e6902aba68dd36d/artifacts
+end_time: 1741775311235
+entry_point_name: ''
+experiment_id: '321867903361712512'
+lifecycle_stage: active
+run_id: b29701a736b044808e6902aba68dd36d
+run_name: able-skink-933
+run_uuid: b29701a736b044808e6902aba68dd36d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741775311223
+status: 3
+tags: []
+user_id: libnfc43

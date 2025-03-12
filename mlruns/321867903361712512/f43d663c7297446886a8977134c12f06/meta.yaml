@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/libnfc43/Desktop/complete_ml_flow_prctice/mlruns/321867903361712512/f43d663c7297446886a8977134c12f06/artifacts
+end_time: 1741775315971
+entry_point_name: ''
+experiment_id: '321867903361712512'
+lifecycle_stage: active
+run_id: f43d663c7297446886a8977134c12f06
+run_name: bedecked-donkey-216
+run_uuid: f43d663c7297446886a8977134c12f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741775304771
+status: 3
+tags: []
+user_id: libnfc43

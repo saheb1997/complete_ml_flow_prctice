@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/691204312309189330/85ae4f95af8d4365ad055f4db81b547e/artifacts
+end_time: 1741772076100
+entry_point_name: ''
+experiment_id: '691204312309189330'
+lifecycle_stage: active
+run_id: 85ae4f95af8d4365ad055f4db81b547e
+run_name: abrasive-wren-613
+run_uuid: 85ae4f95af8d4365ad055f4db81b547e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741772070958
+status: 3
+tags: []
+user_id: libnfc43
